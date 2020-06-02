@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "1st Gamse",
+"productVersion": "0.1",
+"dataUrl": "Playable.data.unityweb",
+"wasmCodeUrl": "Playable.wasm.code.unityweb",
+"wasmFrameworkUrl": "Playable.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Playable.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
